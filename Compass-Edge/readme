@@ -1,1 +1,14 @@
+Compass edge program
+[IDN]
+untuk melakukan deteksi tepi dari gambar dengan arah kompas
 
+Petunjuk:
+1. Pastikan OpenCV dan Numpy terinstall
+2. Pastikan file gambar yang akan diproses ada
+
+[ENG]
+to detect edge from image with compass direction
+
+Instrcution:
+1. Make sure OpenCV and Numpy are installed
+2. Make sure the file that will be processed is present
